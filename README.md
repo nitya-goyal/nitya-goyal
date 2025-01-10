@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitya-goyal?tab=repositories](https://github.com/nitya-goyal?tab=repositories)
 
-- 📝 I regularly write articles on [https://hashnode.com/@nityagoyal](https://hashnode.com/@nityagoyal)
-
 - 📫 How to reach me **nityagoyal1206@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
