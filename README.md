@@ -2,11 +2,16 @@
 <h3 align="center">CSE student, driven by curiosity, solving problems, and crafting the future.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=500&lines=Coding+is+my+passion!;AI+Enthusiast+%F0%9F%A4%96;Learning+everyday!+%F0%9F%92%AA" alt="Typing Animation">
-  <img src="https://github.com/nitya-goyal/nitya-goyal/blob/2902464dfcfeb0ede860b5c4600513f7f7478b69/Nitya's-Octocat.png" alt="My Custom Octocat" width="300">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=500&lines=Coding+is+my+passion!;AI+Enthusiast+%F0%9F%A4%96;Learning+everyday!+%F0%9F%92%AA" alt="Typing Animation" width="500">
 </p>
 
-<p align="left"> <a href="https://twitter.com/nityagoyal1206" target="blank"><img src="https://img.shields.io/twitter/follow/nityagoyal1206?logo=twitter&style=for-the-badge" alt="nityagoyal1206" /></a> </p>
+<p align="center">
+  <img src="https://github.com/nitya-goyal/nitya-goyal/blob/2902464dfcfeb0ede860b5c4600513f7f7478b69/Nitya's-Octocat.png" alt="My Custom Octocat" width="250">
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/nityagoyal1206" target="blank"><img src="https://img.shields.io/twitter/follow/nityagoyal1206?logo=twitter&style=for-the-badge" alt="nityagoyal1206" /></a>
+</p>
 
 - 🔭 I’m currently working on [My Python Learning Journey Projects](https://github.com/nitya-goyal/100DaysofCode-TheCompletePythonProBootcamp).
 - 🌱 I’m currently learning **Web Development, Python, and Java**.
@@ -16,9 +21,9 @@
 
 ### **Connect with me:**
 <p align="left">
-<a href="https://twitter.com/nityagoyal1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nityagoyal1206" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nityagoyal1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nityagoyal1206" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitya-goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitya-goyal" height="30" width="40" /></a>
+  <a href="https://twitter.com/nityagoyal1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nityagoyal1206" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nityagoyal1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nityagoyal1206" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/nitya-goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitya-goyal" height="30" width="40" /></a>
 </p>
 
 ---
