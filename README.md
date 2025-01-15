@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=500&lines=Coding+is+my+passion!;AI+Enthusiast+%F0%9F%A4%96;Learning+everyday!+%F0%9F%92%AA" alt="Typing Animation">
+
 <h1 align="center">Hi 👋, I'm Nitya ✨</h1>
 <h3 align="center">CSE student, driven by curiosity, solving problems, and crafting the future.</h3>
 
