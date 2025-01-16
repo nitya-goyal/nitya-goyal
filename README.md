@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nitya-goyal/nitya-goyal/blob/2902464dfcfeb0ede860b5c4600513f7f7478b69/Nitya's-Octocat.png" alt="My Custom Octocat" width="250">
-</p>
-
-<p align="center">
   <a href="https://twitter.com/nityagoyal1206" target="blank"><img src="https://img.shields.io/twitter/follow/nityagoyal1206?logo=twitter&style=for-the-badge" alt="nityagoyal1206" /></a>
 </p>
 
