@@ -10,7 +10,7 @@
 </p>
 
 - 🚀 **Specialization:** B.Tech in CSE (Artificial Intelligence)
-- 🏆 **Achievement:** 1st place National Hackathon Winner (Handeled all Ideation and Techincal roles solo being Team Leader, with teammate support in presentation)
+- 🏆 **Achievement:** 1st place National Hackathon Winner (Handeled All Ideation to Technical roles Solo being Team Leader, with teammate support in presentation)
 - 🧠 **Research:** Working as Lead Author of *TriageNet: Visual Speech Recognition using Bi-LSTMs*
 
 ## 🌟 Featured Projects
