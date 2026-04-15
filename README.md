@@ -15,7 +15,7 @@
 
 ## 🌟 Featured Projects
 
-### [Vaani Setu](link)
+### [Vaani Setu](https://github.com/nitya-goyal/VaaniSetu)
 A sign language recognition system converting visual gestures to text/speech using CNN & LSTM.
 
 ---
