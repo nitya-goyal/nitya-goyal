@@ -13,6 +13,11 @@
 - 🏆 **Achievement:** Hackathon Winner (1st place)
 - 🧠 **Research:** Working as Lead Author of *TriageNet: Visual Speech Recognition using Bi-LSTMs*
 
+## 🌟 Featured Projects
+
+### [Vaani Setu](link)
+A sign language recognition system converting visual gestures to text/speech using CNN & LSTM.
+
 ---
 
 ### **Connect with me:**
