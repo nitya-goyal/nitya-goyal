@@ -9,9 +9,9 @@
   <a href="https://twitter.com/nityagoyal1206" target="blank"><img src="https://img.shields.io/twitter/follow/nityagoyal1206?logo=twitter&style=for-the-badge" alt="nityagoyal1206" /></a>
 </p>
 
-- 🔭 I’m currently working on [My Python Learning Journey Projects](https://github.com/nitya-goyal/100DaysofCode-TheCompletePythonProBootcamp).
-- 🌱 I’m currently learning **Web Development, Python, and Java**.
-- 📫 How to reach me: **nityagoyal1206@gmail.com**.
+- 🚀 **Specialization:** B.Tech in CSE (Artificial Intelligence)
+- 🏆 **Achievement:** Hackathon Winner (1st place)
+- 🧠 **Research:** Working as Lead Author of *TriageNet: Visual Speech Recognition using Bi-LSTMs*
 
 ---
 
