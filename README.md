@@ -1,107 +1,129 @@
 # Hi 👋, I'm Nitya Goyal ✨
 
-<h3 align="center">B.Tech CSE | AI/ML Enthusiast | Hackathon Winner | Building Ideas into Impact</h3>
+<h3 align="center">Computer Science Undergraduate | AI & Machine Learning | Building Things That Matter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4361EE&center=true&vCenter=true&width=600&lines=Building+with+AI%2FML+%F0%9F%A4%96;Hackathon+Enthusiast+%F0%9F%8F%86;Exploring+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Learning%2C+Building%2C+Repeating+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4361EE&center=true&vCenter=true&width=600&lines=Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+Multimodal+AI+Applications+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%8F%86;Learning+by+Building+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/nityagoyal1206">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/nityagoyal1206">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/nitya-goyal">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:nityagoyal1206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI)** at Bennett University (2024–2028).
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision**.
-- 🏆 National hackathon winner with experience taking ideas from ideation to technical implementation.
-- 💡 Passionate about building practical AI-powered solutions to real-world problems.
-- 🔐 Exploring cybersecurity, open-source development and competitive programming.
-- 🧠 Interested in research at the intersection of AI, accessibility and human-computer interaction.
+I'm a Computer Science undergraduate at **Bennett University (2024–2028)**, interested in building intelligent applications using AI and Machine Learning.
 
----
-
-## 🏆 Achievements & Recognition
-
-| Achievement | Recognition |
-|---|---|
-| 🥇 Hackaccino 3.0 (2025) – AR Track | **1st Prize Winner** |
-| 🏆 GeekRoom Code Combat 6.0 | **Top 15 Teams – Paytm Finale** |
-| 🚀 Microsoft Innovate – Bennett Hackathon 2026 | **Semi-Finalist – Team Vxon** |
-
-### Highlights
-
-- **Hackaccino 3.0:** Secured 1st Prize in the AR Track at a national-level hackathon with 3,600+ registrations. Led ideation and technical execution as team leader.
-- **GeekRoom Code Combat 6.0:** Reached the Top 15 among 1,600+ participating teams and qualified for the Paytm finale.
-- **Microsoft Innovate:** Reached the semi-finals with Team Vxon, developing ZapScan, an automated web security scanning and vulnerability analysis platform.
+- 🤖 Exploring Artificial Intelligence, Machine Learning and Deep Learning.
+- 👁️ Interested in Computer Vision and multimodal AI systems.
+- 🏆 Hackathon enthusiast with national-level wins and competitive hackathon experience.
+- 💡 Enjoy turning ideas into functional, real-world applications.
+- 🌱 Constantly learning, experimenting and building.
 
 ---
 
-## 🌟 Featured Projects
+## 🏆 Achievements
 
-### 🔍 [LookDo](https://github.com/nitya-goyal/LookDo)
-**Multimodal AI-Powered Accessibility & UI Navigation Assistant**
+<p align="center">
+  <img src="https://img.shields.io/badge/1st%20Place-Hackaccino%202025-FFD700?style=for-the-badge" alt="Hackaccino Winner"/>
+  <img src="https://img.shields.io/badge/1st%20Runner--Up-MLH%20Hack%20Day-9B59B6?style=for-the-badge" alt="MLH Runner Up"/>
+  <img src="https://img.shields.io/badge/Top%2015-Code%20Cubicle%206.0-4361EE?style=for-the-badge" alt="Code Cubicle"/>
+</p>
 
-- Helps users locate and interact with UI elements using natural-language instructions and screenshots.
-- Uses Gemma 4 for visual-semantic grounding and element identification.
-- Features voice input, Locate Element, and Guide Me functionality.
-- Explores contextual attention detection using MediaPipe.
+### 🥇 1st Place – Hackaccino 2025 | AR Track
+**CSI, Bennett University · April 2025**
 
-**Tech:** Python, FastAPI, React, Gemma 4, MediaPipe
+- Led a two-person team as a first-year student.
+- Handled ideation and all technical development.
+- Competed at an event attracting 3,600+ registrations.
 
-### ♿ VaaniSetu
-**AI-Based Sign Language Recognition System**
+### 🥈 1st Runner-up – Gemma Track | Hacktoberfest Hack Day
+**MLH Hackathon · October 2026**
 
-- Explores translating visual sign language gestures into text and speech.
-- Focuses on improving accessibility through computer vision and deep learning.
+- Secured 1st Runner-up for **LookDo**, a multimodal UI navigation assistant.
 
-**Tech:** Python, CNN, LSTM, Computer Vision
+### 🏆 Top 15 of 1,600+ Teams – Code Cubicle 6.0
+**Geek Room · Grand Finale at Paytm's Office**
 
-### 🛡️ ZapScan – Team Vxon
-**Automated Web Application Security Assessment Platform**
-
-- Developed during Microsoft Innovate at Bennett Hackathon 2026.
-- Integrates automated reconnaissance, endpoint discovery and vulnerability scanning.
-- Combines OWASP ZAP and ffuf with AI-assisted security analysis.
-
-**Tech:** FastAPI, Python, Docker, OWASP ZAP, ffuf, SQLite, OpenRouter
+- Advanced through multiple evaluation rounds with **KhojSetu**.
+- Built around offline semantic search for archaeological field research.
 
 ---
 
-## 🧠 Research Interests
+## 🚀 Featured Projects
 
-- Deep Learning & Neural Networks
-- Visual Speech and Sign Language Recognition
-- Computer Vision
-- AI for Accessibility
-- Human-Computer Interaction
+### 👁️ [LookDo](https://github.com/nitya-goyal/LookDo)
+**Multimodal UI Navigation Assistant**
+
+An AI-powered assistant that understands screenshots and natural-language instructions to help users locate and interact with interface elements.
+
+- Combines screenshots with typed or spoken user intent.
+- Uses Gemma for visual-semantic grounding.
+- Highlights relevant UI elements using bounding-box overlays.
+- Includes voice input and single-step guided interaction.
+- Implements validated model responses, bounded retries and timeout handling.
+
+**Tech Stack:** Python · FastAPI · React · Vite · Gemma · Pydantic
+
+### 🏺 [KhojSetu](https://github.com/kg2655/KhojSetu)
+**Offline Semantic Memory for Archaeological Field Research**
+
+An offline-first semantic-search application designed to help archaeological researchers record observations and retrieve related evidence.
+
+- Contributed to an application for recording observations and retrieving relevant research evidence.
+- Uses local MiniLM embeddings with dense and sparse retrieval.
+- Implements Reciprocal Rank Fusion (RRF) and excavation-layer/material filters.
+- Supports persistent SQLite records and selective exchange of approved records.
+- Handles pending changes, retries and conflict review across interrupted connections.
+
+**Tech Stack:** Python · TypeScript · Qdrant Edge / Server · FastEmbed · SQLite · Docker
+
+### 🤟 Indian Sign Language Recognition
+**LSTM-Based Computer Vision System**
+
+An independently developed sign-language gesture recognition system using custom webcam-collected data.
+
+- Collected and preprocessed a custom ISL gesture-sequence dataset using MediaPipe and OpenCV.
+- Built and trained an LSTM-based gesture recognizer using TensorFlow/Keras.
+- Achieved **80% test accuracy**.
+- Developed a live webcam inference pipeline.
+- Demonstrated Diwali greetings including Namaste, Happy Diwali and Thank You.
+
+**Tech Stack:** Python · TensorFlow · Keras · OpenCV · MediaPipe · NumPy
+
+[View Project Demo](https://lnkd.in/p/gj2rX8a9)
 
 ---
 
-## 🛠️ Languages, Tools & Technologies
+## 🛠️ Technical Skills
 
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
-  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/></a>
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/></a>
-  <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/></a>
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Programming Languages"/>
+</p>
+
+**Machine Learning & Computer Vision**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="Machine Learning Tools"/>
+  NumPy · Pandas · Matplotlib · Seaborn · Keras · MediaPipe · PyTorch (Basics)
+</p>
+
+**Application Development & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,vite,docker,sqlite,git,github" alt="Development Tools"/>
 </p>
 
 ---
@@ -114,12 +136,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitya-goyal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nitya-goyal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/nityagoyal1206" target="_blank">
@@ -131,14 +153,17 @@
   <a href="https://www.leetcode.com/nitya-goyal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/>
   </a>
+  <a href="mailto:nityagoyal1206@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Learning by building. Growing by challenging myself. Creating things that matter."</i> ✨
+  <i>"Learn relentlessly. Build fearlessly. Keep creating."</i> ✨
 </p>
 
 <p align="center">
-  ⭐ If you find something interesting here, feel free to explore my repositories!
+  ⭐ Thanks for visiting my profile!
 </p>
